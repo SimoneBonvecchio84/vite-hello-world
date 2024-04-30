@@ -14,12 +14,15 @@
 </script>
 
 <template>
-  <h1>Ciao Mondo</h1>
+  
+    <h1>Ciao Mondo</h1>
+
+ 
   <section>
     <AppTitleImg />
   </section>
 </template>
 
 <style>
-
+ 
 </style>
